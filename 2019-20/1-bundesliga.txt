@@ -414,10 +414,10 @@ Spieltag 27
 
 Spieltag 28
 [Fr. 3.4.]
-  Werder Bremen           - Bor. Mönchengladbach
+  Werder Bremen           - Bor. Mönchengladbach        # Termin verschoben
 [Sa. 4.4.]
-  Bayer 04 Leverkusen     - VfL Wolfsburg
-  Borussia Dortmund       - Bayern München
+  Bayer 04 Leverkusen     - VfL Wolfsburg               # Termin verschoben
+  Borussia Dortmund       - Bayern München              # Termin verschoben
   1. FC Union Berlin      - 1. FSV Mainz 05
   FC Augsburg             - SC Paderborn 07
   TSG Hoffenheim          - 1. FC Köln
